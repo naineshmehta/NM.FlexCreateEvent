@@ -1,0 +1,5 @@
+C:\inetpub\wwwroot\new.summerfestivalguide.co.uk\bin\NM.FlexCreateEvent.dll
+C:\inetpub\wwwroot\new.summerfestivalguide.co.uk\bin\NM.FlexCreateEvent.pdb
+C:\inetpub\wwwroot\new.summerfestivalguide.co.uk\DesktopModules\NM.FlexCreateEvent\obj\Debug\NM.FlexCreateEvent.dll
+C:\inetpub\wwwroot\new.summerfestivalguide.co.uk\DesktopModules\NM.FlexCreateEvent\obj\Debug\NM.FlexCreateEvent.pdb
+C:\inetpub\wwwroot\new.summerfestivalguide.co.uk\DesktopModules\NM.FlexCreateEvent\obj\Debug\NM.FlexCreateEvent.csprojResolveAssemblyReference.cache

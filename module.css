@@ -1,0 +1,21 @@
+#mapEvent {
+    width: 100%;
+    height: 400px;
+}
+
+.ErrorMessage {
+    background-color: #e6e6fa;
+    font-size: 0.9em;
+    font-weight: bold;
+    font-style: italic;
+    color: #ff0000;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+    width: 100%;
+}
+
+span.ErrorMessage[style*="inline"]
+{
+    display:block !Important;
+}

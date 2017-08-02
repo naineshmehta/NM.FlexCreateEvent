@@ -1,0 +1,4 @@
+C:\inetpub\wwwroot\new.summerfestivalguide.co.uk\bin\NM.FlexCreateEvent.dll
+C:\inetpub\wwwroot\new.summerfestivalguide.co.uk\bin\NM.FlexCreateEvent.pdb
+C:\inetpub\wwwroot\new.summerfestivalguide.co.uk\DesktopModules\NM.FlexCreateEvent\obj\Release\NM.FlexCreateEvent.dll
+C:\inetpub\wwwroot\new.summerfestivalguide.co.uk\DesktopModules\NM.FlexCreateEvent\obj\Release\NM.FlexCreateEvent.pdb
